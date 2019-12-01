@@ -11,6 +11,6 @@ However, the percentage of votes earned by the pro-establishment camp didn't cha
 
 Still， it is not the entire case. There is a coincidence between two numbers -- 440k, the number of newly registered voters in 2019, and 441k, the number of net increase of votes that the establishment camp received in 2019. If we just look at these two number, it seems to imply that most newly registered voters vote for the establishment.
 
-To sum up, the three statitics, 1) 71.23%, 2) 41.32%, and 3) 440k, resulting from the same event can imply three statements that are mutually exclusive, most new voters voted for 1) pro-democracy, 2) both camps, 3) pro-Beijing.
+To sum up, the three statitics, 1) 71.23%, 2) 41.32%, and 3) 441k, resulting from the same event can imply three statements that are mutually exclusive, most new voters voted for 1) pro-democracy, 2) both camps, 3) pro-Beijing.
 
 What is the fact? This project aims to resolve the dispute through data visualization.
